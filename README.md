@@ -1,6 +1,6 @@
-<div align="center">
-  ## Hi there 👋, I'm Brandon Chung
-</div>
+<h1 align="center">
+  Hi there 👋, I'm Brandon Chung
+</h1>
 
 <!--
 **bchung9/bchung9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning PyTorch.
+<li>🌱 I’m currently learning PyTorch.</li>
+<li>🤔 Ask me about how much I love grinding LeetCode!</li>
+<li>📫 Feel free to reach out and connect: https://www.linkedin.com/in/brandon-c-b730a3252/</li>
