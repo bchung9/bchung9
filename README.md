@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<li><s>🌱 I’m currently learning PyTorch (POSTPONED).</s></li>
+<li><s>🌱 I’m currently learning PyTorch .</s>(POSTPONED)</li>
 <li>🌱 I’m currently studying for a difficult Skills Assessment (Day 3/17 of Grind).</li>
 <li>🤔 Ask me about how much I love grinding LeetCode!</li>
 <li>📫 Feel free to reach out and connect: https://www.linkedin.com/in/brandon-c-b730a3252/</li>
