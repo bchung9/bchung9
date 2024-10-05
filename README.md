@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 <li><s>🌱 I’m currently learning PyTorch .</s> (POSTPONED)</li>
 <li>🌱 I’m currently studying for a difficult Skills Assessment (Day 5/17 of Grind).</li>
-<li>🤔 Ask me about how much I love grinding LeetCode! (LeetCode 75: 11/75)</li>
+<li>🤔 Ask me about how much I love grinding LeetCode! (LeetCode 75: 13/75)</li>
 <li>📫 Feel free to reach out and connect: https://www.linkedin.com/in/brandon-c-b730a3252/</li>
