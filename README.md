@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <li>😄 Pronouns: He/Him/His</li>
 <li>⚡ Fun fact: I played semi-professionally in Valorant.</li>
 <li><s>🌱 I’m currently learning PyTorch .</s> (POSTPONED)</li>
-<li>🌱 I’m currently studying for a difficult Skills Assessment (Day 7/17 of Grind).</li>
-<li>🤔 Ask me about how much I love grinding LeetCode! (LeetCode 75: 19/75)</li>
+<li>🌱 I’m currently studying for a difficult Skills Assessment (Day 10/17 of Grind).</li>
+<li>🤔 Ask me about how much I love grinding LeetCode! (LeetCode 75: 20/75)</li>
 <li>📫 Feel free to reach out and connect: https://www.linkedin.com/in/brandon-c-b730a3252/</li>
