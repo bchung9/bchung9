@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<li>😄 Pronouns: He/Him/His</li>
+
 <li>⚡ Fun fact: I played semi-professionally in Valorant.</li>
 <li>🌱 I’m currently learning PyTorch .</li>
 <li><s>🌱 I’m currently studying for a difficult Skills Assessment (Day 17/17 of Grind).</s></li>
