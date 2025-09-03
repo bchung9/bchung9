@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <li>⚡ Fun fact: I played semi-professionally in Valorant.</li>
 <li>🌱 I’m currently learning Blender (3D Creation Suite).</li>
 <li>🤔 Ask me about how much I love grinding LeetCode! (LeetCode 75: 20/75)</li>
-<li>📫 Feel free to reach out and connect: https://www.linkedin.com/in/brandon-c-b730a3252/</li>
+<li>📫 Feel free to reach out and connect: brandonchung.btc@gmail.com</li>
 <li>😄 Pronouns: He/Him/His</li>
